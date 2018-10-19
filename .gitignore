@@ -1,0 +1,9 @@
+.gradle
+build
+.idea
+*.iml
+target
+testng-local.xml
+*.log
+selenium_tests/*.csv
+*/out/*
